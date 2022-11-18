@@ -7,4 +7,4 @@
 * The repository contain:
   * 3 csv files (geo_data_0, geo_data_1, geo_data_2) with raw data
   * 5 png file with plot photo
-  * project 12 final.ipynb with the analysis report.
+  * OilyGiant mining project.ipynb with the analysis report.
